@@ -6,7 +6,7 @@ This repository contains Python code, diagnostic plots, and a short report for a
 
 - `A.Akinc_PulsarSearch_1.5.ipynb` — main analysis script
 - `PS-figures/` — generated diagnostic plots
-- `A.Akinc 1-Week Pulsar Detection Report.pdf` — project report
+- `A.Akinc Pulsar Detection Report.pdf` — project report
 
 ## Methods
 
