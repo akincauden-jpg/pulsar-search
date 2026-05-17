@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Environments
+.env
+.venv/
+venv/
+*.egg-info/
+
+# Data files - do not upload large/raw telescope data
+*.npy
+*.npz
+*.fits
+*.fil
+*.h5
+*.hdf5
+
+
+# macOS
+.DS_Store
+
+# Jupyter
+*.ipynb_checkpoints
